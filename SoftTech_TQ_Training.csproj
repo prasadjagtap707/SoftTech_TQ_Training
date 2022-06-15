@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>SoftTech_TQ_Training.Collection.Dictio</StartupObject>
+    <StartupObject>SoftTech_TQ_Training.Delegate_Event.Dele_Event</StartupObject>
     <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
 
